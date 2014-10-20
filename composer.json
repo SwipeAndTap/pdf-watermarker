@@ -12,8 +12,8 @@
     },
      "autoload": {
         "psr-0": {
-            "PDFWatermarker": "",
-            "files" : [ "pdfwatermarker/pdfwatermark.php"]
+            "SW//PDFWatermarker": "",
+            "files" : [ "pdfwatermarker/*", "fpdf/fpdf.php", "fpdi","fpdi.php"]
         }
     },
     "minimum-stability": "stable"
