@@ -10,5 +10,11 @@
     "require-dev": {
         "phpunit/phpunit": "4.0.*"
     },
+     "autoload": {
+        "psr-0": {
+            "PDFWatermarker": "",
+            "files" : [ "pdfwatermarker/pdfwatermark.php"]
+        }
+    },
     "minimum-stability": "stable"
 }
