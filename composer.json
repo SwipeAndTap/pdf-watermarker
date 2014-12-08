@@ -12,9 +12,9 @@
     },
      "autoload": {
         "psr-0": {
-            "SW\\PDFWatermarker": "",
-            "files" : [ "pdfwatermarker/*", "fpdf/*"]
+            "SW\\PDFWatermarker": ""
         }
     },
-    "minimum-stability": "stable"
+    "minimum-stability": "stable",
+    "target-dir":"Swipeandtap/pdf-watermarker"
 }
